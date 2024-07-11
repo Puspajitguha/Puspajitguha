@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Puspajitguha
-- 👀 I’m interested in learning initial codin in python and looking out for best tech talent
+- 👀 Looking out for the best tech talent here
 - 📫 How to reach me Email - Connect2puspajit@gmail.com
 <!---
 Puspajitguha/Puspajitguha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
